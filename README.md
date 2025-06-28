@@ -2,19 +2,17 @@
 # Hello, I'm Shamayel Eqbali
 <a href="https://www.linkedin.com/in/shamayel-eqbali-224597324"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Aspiring SOC analyst with a deep interest in cybersecurity and a commitment to continuous learning with a strong interest in technology and a passion for solving security challenges.
+
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Driven by a passion for computer science and cybersecurity, I am eager to begin my career as a Tier 1 SOC Analyst. My goal is to apply technical knowledge, enhance threat detection skills, and grow through hands-on experience and continuous learning in a dynamic security environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
