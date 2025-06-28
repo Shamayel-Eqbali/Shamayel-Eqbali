@@ -22,7 +22,7 @@ Driven by a passion for computer science and cybersecurity, I am eager to begin 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
