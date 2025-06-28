@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Hello, I'm Shamayel Eqbali
-<a href="https://www.linkedin.com/in/shamayel-eqbali-224597324"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shamayel-eqbali-224597324" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
